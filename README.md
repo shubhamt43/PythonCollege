@@ -44,10 +44,9 @@ Welcome to my Python learning repo! This is where I’m documenting my journey i
 - [x] Basics
 - [x] Conditionals & Loops
 - [x] Functions
-- [ ] OOP
-- [ ] File Handling
-- [ ] Web Scraping
-- [ ] Projects!
+- [x] OOP
+- [x] File Handling
+- [x] Projects!
 
 ---
 

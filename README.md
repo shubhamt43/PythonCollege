@@ -14,7 +14,7 @@ Welcome to my Python learning repo! This is where I’m documenting my journey i
 
 ## 🛠 Tools & Tech
 
-- Python 3.x
+- Python 3.13.2
 - Jupyter Notebooks
 - VS Code
 - Git & GitHub
@@ -25,7 +25,7 @@ Welcome to my Python learning repo! This is where I’m documenting my journey i
 
 - Get comfortable with Python syntax
 - Build real-world projects
-- Explore libraries like `pandas`, `matplotlib`, and `flask`
+- Explore libraries like `pandas`, `numpy`, and `flask`
 - Have fun and document everything along the way
 
 ---
@@ -34,7 +34,7 @@ Welcome to my Python learning repo! This is where I’m documenting my journey i
 
 - ✅ First script: *Hello, World!*
 - ✅ First function
-- 🚧 Working on: [Chatbot using gemini api]
+- 🚧 Miniproject : [Chatbot using gemini api]
 
 ---
 

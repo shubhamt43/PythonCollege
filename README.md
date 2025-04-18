@@ -1,5 +1,5 @@
 ## 🐍 PythonLearnings
-                                                                                                # By Raunak Joshi Sir
+                                                             # By Raunak Joshi Sir
 
 Welcome to my Python learning repo! This is where I’m documenting my journey into the world of Python programming — from basic syntax to more advanced projects.
 
